@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning: **React and Vim**.
 
-- 👨‍💻 All of my projects are available at: [gudoes.dev/projects](www.gudoes.dev/projects)
+- 👨‍💻 All of my projects are available at: ![gudoes.dev/projects](https://gudoes.dev/projects)
 
 - 💬 Ask me about: **JS, Linters, VIM, React, AngularJS and ServiceNow**.
 
 - 📫 How to reach me: **lokitodev@gmail.com**.
 
-- 📄 Know about my experiences: [gudoes.dev/resume](www.gudoes.dev/resume)
+- 📄 Know about my experiences: [gudoes.dev/resume](https://gudoes.dev/resume)
 
 - ⚡ Fun fact: **I love anime 😄**.
 
