@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning: **React and Vim**.
 
-- 👨‍💻 All of my projects are available at: ![gudoes.dev/projects](https://gudoes.dev/projects)
+- 👨‍💻 All of my projects are available at: [gudoes.dev/projects](https://gudoes.dev/projects)
 
 - 💬 Ask me about: **JS, Linters, VIM, React, AngularJS and ServiceNow**.
 
