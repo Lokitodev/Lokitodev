@@ -2,7 +2,7 @@
   <img height="250" src="https://64.media.tumblr.com/9cff938216133142406c9f61970acd2f/tumblr_njjcz1NLp51rnbw6mo1_540.gif">
 </p>
 
-<h1 align="center">Hi <img height="32px" src="https://api.joypixels.com/emoji-profiles/waving-hand/animated/SghOfb2OE1owTEWg/download/128/_/3.5" >, I'm Gustavo</h1>
+<h1 align="center">Hi <img height="32px" src="https://api.joypixels.com/emoji-profiles/waving-hand/animated/SghOfb2OE1owTEWg/download/128/_/3.5" >, I'm Gustavo!</h1>
 <h3 align="center">A passionate frontend developer from 🇧🇷.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lokitodev&label=Cool%20humans&color=e5a50a&style=plastic" alt="lokitodev" /> </p>
@@ -60,11 +60,11 @@
 <hr>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lokitodev&show_icons=true&theme=gruvbox&hide_border=true&locale=en&layout=compact" alt="lokitodev" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gu-does-git&show_icons=true&theme=gruvbox&hide_border=true&locale=en&layout=compact" alt="gu-does-git" />
   &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lokitodev&show_icons=true&theme=gruvbox&hide_border=true&locale=en" alt="lokitodev" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gu-does-git&show_icons=true&theme=gruvbox&hide_border=true&locale=en" alt="gu-does-git" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lokitodev&theme=dark" alt="lokitodev" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gu-does-git&theme=dark" alt="gu-does-git" />
 </p>
