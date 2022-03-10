@@ -13,7 +13,7 @@
 
 - 💬 Ask me about: **JS, Linters, VIM, React, AngularJS and ServiceNow**.
 
-- 📫 How to reach me: **lokitodev@gmail.com**.
+- 📫 How to reach me: **gu.does.dev@gmail.com**.
 
 - 📄 Know about my experiences: [gudoes.dev/resume](https://gudoes.dev/resume)
 
